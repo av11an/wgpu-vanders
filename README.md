@@ -8,6 +8,8 @@ This project is related to the vanders project in the way that I wanted to mess 
 it made me realize that my CPU power was not going to be enough to learn about shaders and that I needed to quickly switch
 to a GPU and use wgsl, instead of converting everything in Rust.
 
+Alot of this package is directly inspired/re-used from https://sotrh.github.io/learn-wgpu/beginner/tutorial1-window/
+
 ## Helpful Commands
 
 Build WASM files.
